@@ -374,6 +374,10 @@ section {
   text-decoration: none;
 }
 
+.about .imgBx {
+  min-height: 450px;
+}
+
 @media (max-width: 1050px) {
   header,
   header.sticky {
